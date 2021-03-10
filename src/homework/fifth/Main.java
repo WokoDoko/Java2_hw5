@@ -1,5 +1,7 @@
 package homework.fifth;
 
+//Спасибо, что дали возможность сдать позже. Не успеваю из-за работы.
+
 import java.util.Arrays;
 
 public class Main {
